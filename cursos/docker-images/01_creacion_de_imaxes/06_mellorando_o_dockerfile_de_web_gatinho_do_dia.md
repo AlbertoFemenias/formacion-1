@@ -1,7 +1,7 @@
 # Mellorando o Dockerfile da web "gatiño do día"
 
 ## 1. Alixeirando a imaxe
-Se construímo-la imaxe do gatinho web da actividade anterior, podemos sabe-lo tamaño da mesma.
+Se construímo-la imaxe do gatinho web da [actividade anterior](./05_o_dockerfile_construindo_a_imaxe_do_gatinho_do_dia.md), podemos sabe-lo tamaño da mesma.
 
 Basta con facer:
 
