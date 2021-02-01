@@ -3,5 +3,5 @@
   - [Emprego de comandos](/cursos/docker-images/01_creacion_de_imaxes/02_emprego_de_comandos.md)
   - [Exemplo: creando imaxe mediante comandos](/cursos/docker-images/01_creacion_de_imaxes/03_exemplo_creando_imaxe_maediante_comandos.md)
   - [O Dockerfile](/cursos/docker-images/01_creacion_de_imaxes/04_o_dockerfile.md)
-  - [O Dockerfile: construíndo a imaxe do "gatiño do día"](/cursos/docker-images/01_creacion_de_imaxes/05_o_dockerfile_construindo_a_imaxe_do_gatinho_do_dia.md)
-  - [Mellorando o Dockerfile da web "gatiño do día"](/cursos/docker-images/01_creacion_de_imaxes/06_mellorando_o_dockerfile_de_web_gatinho_do_dia.md)
+  - [O Dockerfile: construíndo a imaxe do "gatiño do día"](/formacion-1/cursos/docker-images/01_creacion_de_imaxes/05_o_dockerfile_construindo_a_imaxe_do_gatinho_do_dia.md)
+  - [Mellorando o Dockerfile da web "gatiño do día"](/formacion-1/cursos/docker-images/01_creacion_de_imaxes/06_mellorando_o_dockerfile_de_web_gatinho_do_dia.md)
